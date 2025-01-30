@@ -3,8 +3,6 @@
 # CS 5588 Big Data Analytics and Application
 ## Hands-On Session Plan: Classification and Regression Models
 
-### Date: January 30, 2025
-
 ### Overview
 In this session, students will learn to build and train feedforward neural networks for both classification and regression tasks using PyTorch. The session includes an instructor-led task using the **Diabetes Dataset** and a student activity using the **California Housing Dataset**. The session concludes with documenting the work in GitHub and completing a reflective survey.
 
