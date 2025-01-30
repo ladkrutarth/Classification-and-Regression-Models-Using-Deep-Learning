@@ -1,7 +1,4 @@
-# Classification-and-Regression-Models-Using-Deep-Learning
-Here's a README file based on the information you provided:
 
----
 
 # CS 5588 Big Data Analytics and Application
 ## Hands-On Session Plan: Classification and Regression Models
