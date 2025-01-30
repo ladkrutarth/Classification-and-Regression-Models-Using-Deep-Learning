@@ -81,14 +81,6 @@ In this session, students will learn to build and train feedforward neural netwo
 
 ---
 
-### GitHub Submission:
-1. Save completed notebooks:
-    - `Diabetes_Classification_Regression.ipynb` (Instructor-Led).
-    - `California_Housing_Classification_Regression.ipynb` (Student Activity).
-2. Create a GitHub repository:
-    - Add the notebooks and a detailed **README** file explaining the tasks and results.
-3. Share the repository link for review.
-
 ---
 
 ### Wrap-Up:
