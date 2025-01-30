@@ -78,22 +78,6 @@ In this session, students will learn to build and train feedforward neural netwo
 
 ---
 
----
-
-### Wrap-Up:
-#### Key Takeaways:
-- Experience in building feedforward neural networks for regression and classification.
-- Understanding of evaluation metrics like **MSE**, **R-squared**, **accuracy**, **precision**, **recall**, and **F1-score**.
-- Familiarity with **GitHub** for professional documentation and sharing work.
-
-#### Survey:
-- Complete a short survey reflecting on:
-    - Challenges faced.
-    - Lessons learned.
-    - Suggestions for improving future sessions.
-
----
-
 ### Resources:
 - [Google Colab](https://colab.research.google.com/)
 - [PyTorch Documentation](https://pytorch.org/docs/stable/)
